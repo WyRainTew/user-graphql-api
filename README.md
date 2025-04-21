@@ -87,11 +87,10 @@ query {
 
 ## 可用用户ID
 
-项目中预设了三个用户数据：
-- aaa：张三，28岁，男
+项目中预设了用户数据：aaa：张三，28岁，男
 
 
-##查询例子
+## 查询例子
 ![image](https://github.com/user-attachments/assets/4f507bcc-7b12-466b-871d-cdc48395dbe2)
 
 
