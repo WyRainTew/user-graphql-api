@@ -24,18 +24,18 @@
 
 ```
 user-graphql-api/
-├── go.mod              # Go模块定义
-├── go.sum              # 依赖版本锁定
-├── gqlgen.yml          # gqlgen配置文件
-├── graph               # GraphQL相关代码
-│   ├── generated.go    # 自动生成的GraphQL代码
-│   ├── model           # 数据模型
-│   │   └── models.go   # 用户数据模型定义
-│   ├── resolver.go     # 解析器和数据源
-│   ├── schema.graphqls # GraphQL模式定义
-│   └── schema.resolvers.go # 解析器实现
-├── server.go           # 主服务器文件
-└── tools.go            # 工具依赖
+├── go.mod              // Go模块定义
+├── go.sum              // 依赖版本锁定
+├── gqlgen.yml          // gqlgen配置文件
+├── graph               // GraphQL相关代码
+│   ├── generated.go    // 自动生成的GraphQL代码
+│   ├── model           // 数据模型
+│   │   └── models.go   // 用户数据模型定义
+│   ├── resolver.go     // 解析器和数据源
+│   ├── schema.graphqls // GraphQL模式定义
+│   └── schema.resolvers.go // 解析器实现
+├── server.go           // 主服务器文件
+└── tools.go            // 工具依赖
 ```
 
 ## 快速开始
