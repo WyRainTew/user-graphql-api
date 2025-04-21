@@ -90,6 +90,11 @@ query {
 项目中预设了三个用户数据：
 - aaa：张三，28岁，男
 
+
+##查询例子
+![image](https://github.com/user-attachments/assets/4f507bcc-7b12-466b-871d-cdc48395dbe2)
+
+
 ## 参考资料
 
 本项目基于[gqlgen](https://github.com/99designs/gqlgen)开发，参考了其中的示例，特别是[todo示例](https://github.com/99designs/gqlgen/tree/master/_examples/todo)。 
